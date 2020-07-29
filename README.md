@@ -13,7 +13,7 @@ Profile.
 ## Installation
 
 >Extract the files after download 
->Go to the projects directory and type "npm install" otherwise you can use "yarn install" or "expo install"
+>Go to the projects directory for installing dependencies type "npm install" otherwise you can use "yarn install" or "expo install"
 >then type "expo start"
 >Download the expo app from the App store and scan the QR code which is shown on the terminal.
 
